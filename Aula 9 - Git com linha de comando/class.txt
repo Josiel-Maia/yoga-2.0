@@ -1,0 +1,15 @@
+
+git help
+git status => Mostra Qual é o status atual do nosso repositório.
+
+
+git config --global user.name "seu nome aqui entre asoas"
+git config -- global user.email " su emal aqui do git entre aspas"
+
+git init => inicia um novo repositório na pasta que eu estou
+git add . => Adiciona TODOS os aquivos de uma vez só
+
+
+git commit
+
+git pulh
